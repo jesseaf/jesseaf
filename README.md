@@ -1,4 +1,4 @@
-### Oiii, Eu sou Jessé Alves Ferreira 👋
+## Oiii, Eu sou Jessé Alves Ferreira 👋
 
  <div>
   <a href="https://github.com/jesseaf">
@@ -17,9 +17,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  
 </div>
-  
-  
-  
-  
+
+ ##  
